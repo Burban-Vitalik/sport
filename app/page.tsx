@@ -1,4 +1,3 @@
-// src/pages/index.js (або Home.js)
 import Layout from "./components/layout";
 import "./styles/globals.css";
 
